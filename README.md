@@ -49,29 +49,6 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muyedrahman&show_icons=true&theme=radical&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muyedrahman&theme=radical" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyedrahman&layout=compact&theme=radical" height="180px" />
-</p>
-
----
-
-## 🎯 Career Goals
-
-* Master the Next.js + TypeScript ecosystem
-* Build production-ready scalable applications
-* Contribute to open-source projects
-* Launch a successful SaaS or technology startup
-* Continuously improve as a Full Stack Developer
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -93,5 +70,30 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 </a>
 
 </p>
+
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muyedrahman&show_icons=true&theme=radical&count_private=true" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muyedrahman&theme=radical" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyedrahman&layout=compact&theme=radical" height="180px" />
+</p>
+
+---
+
+## 🎯 Career Goals
+
+* Master the Next.js + TypeScript ecosystem
+* Build production-ready scalable applications
+* Contribute to open-source projects
+* Launch a successful SaaS or technology startup
+* Continuously improve as a Full Stack Developer
+
 
 ---
