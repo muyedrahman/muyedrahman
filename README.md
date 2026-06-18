@@ -1,3 +1,4 @@
+<img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/b3ae5afd-8a1e-4f51-abad-c2d695591dbb" />
 <p align="center">
   <img src="github-banner.png" alt="Muyedur Rahman - Full Stack Developer Banner" width="100%">
 </p>
