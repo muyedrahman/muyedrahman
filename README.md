@@ -10,7 +10,7 @@ MERN & Next.js Developer • Building Scalable Real-World Applications
 </p>
 
 <p align="center">
-📍 Dhaka, Bangladesh &nbsp;&nbsp;|&nbsp;&nbsp; 📧 your-email@gmail.com
+📍 Dhaka, Bangladesh &nbsp;&nbsp;|&nbsp;&nbsp; 📧 muyedrahman732@gmail.com
 </p>
 
 ---
@@ -37,6 +37,14 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vercel" alt="Skills" />
+</p>
+
+---
+
+## 🚀 Deployment & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,git,github,vscode" />
 </p>
 
 ---
@@ -87,9 +95,3 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 </p>
 
 ---
-
-## 🚀 Deployment & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,firebase,git,github,vscode" />
-</p>
