@@ -7,7 +7,7 @@
 <h1 align="center">✨ Muyedur Rahman ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Next.js+%26+TypeScript+Learner+%F0%9F%8C%9F;Building+Scalable+Applications+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
