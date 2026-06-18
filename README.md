@@ -1,23 +1,20 @@
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/b852d7bc-35aa-4cbc-a9ae-90587437f336" alt="GitHub Banner" />
+  <img width="100%" src="https://github.com/user-attachments/ass<img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/e6d644a3-7558-41ea-b16a-77af8227bc40" />
+ets/b852d7bc-35aa-4cbc-a9ae-90587437f336" alt="GitHub Banner" />
 </p>
 
 ---
 
-<p align="center">
-  ✨+Muyedur+Rahman+✨
-</p>
+<h1 align="center">✨ Muyedur Rahman ✨</h1>
 
-<h3 align="center">
-Full Stack Web Developer
-</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-MERN & Next.js Developer • Building Scalable Real-World Applications • TypeScript Learner
+  MERN & Next.js Developer • Building Scalable Real-World Applications • TypeScript Learner
 </p>
 
 <p align="center">
-📍 Dhaka, Bangladesh &nbsp;&nbsp;|&nbsp;&nbsp; 📧 muyedrahman732@gmail.com
+  📍 Dhaka, Bangladesh &nbsp;&nbsp;|&nbsp;&nbsp; 📧 muyedrahman732@gmail.com
 </p>
 
 ---
@@ -32,11 +29,11 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 ## 🚀 Current Activities
 
-- 🔭 Working on full-stack web applications using React, Next.js, Node.js, and MongoDB  
-- 🌱 Learning TypeScript and advanced Next.js concepts  
-- 💡 Building real-world projects including E-commerce, Tourism, and Service platforms  
-- 🚀 Improving backend architecture and scalable application development  
-- 📚 Exploring modern development tools and best practices  
+- 🔭 Working on full-stack web applications using **React**, **Next.js**, **Node.js**, and **MongoDB**
+- 🌱 Learning **TypeScript** and advanced **Next.js** concepts
+- 💡 Building real-world projects including **E-commerce**, **Tourism**, and **Service** platforms
+- 🚀 Improving backend architecture and scalable application development
+- 📚 Exploring modern development tools and best practices
 
 ---
 
@@ -59,23 +56,18 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://my-portfolio-ebon-three-60.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/muyedur-rahman-315a74344">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/MuyedR71694">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100081985661309">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
+  <a href="https://my-portfolio-ebon-three-60.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muyedur-rahman-315a74344">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/MuyedR71694">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100081985661309">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -95,10 +87,12 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 ## 🎯 Career Goals
 
-- Master Next.js + TypeScript ecosystem  
-- Build production-ready scalable applications  
-- Contribute to open-source projects  
-- Launch SaaS / startup project  
-- Become a professional Full Stack Engineer  
+- `</>` Master Next.js + TypeScript ecosystem
+- 🚀 Build production-ready scalable applications
+- 🤝 Contribute to open-source projects
+- 💡 Launch SaaS / startup project
+- 🏆 Become a professional Full Stack Engineer
 
 ---
+
+<p align="center">💙 Thanks for visiting my profile! Let's connect and build something amazing together!</p>
