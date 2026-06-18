@@ -1,3 +1,4 @@
+![Uploading GitHub-Banner.png…]()
 # 👋 Hi, I'm Muyedur Rahman
 
 ### Full Stack Web Developer | MERN & Next.js | Building scalable real-world apps. On a mission to master Next.js and integrate TypeScript into my stack.
