@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
- font=Poppins&weight=700&size=42&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=✨+Muyedur+Rahman+✨" />
+  ✨+Muyedur+Rahman+✨
 </p>
 
 <h3 align="center">
