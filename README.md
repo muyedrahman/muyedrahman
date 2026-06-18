@@ -1,8 +1,17 @@
-![Uploading GitHub-Banner.png…]()
+<p align="center">
+  <img src="github-banner.png" alt="Muyedur Rahman - Full Stack Developer Banner" width="100%">
+</p>
 
 # 👋 Hi, I'm Muyedur Rahman
 
-### Full Stack Web Developer | MERN & Next.js | Building scalable real-world apps. On a mission to master Next.js and integrate TypeScript into my stack.
+### Full Stack Web Developer | MERN & Next.js Enthusiast 
+
+---
+
+## 📍 Quick Info
+- **Location:** Dhaka, Bangladesh 🇧🇩
+- **Email:** [আপনার ইমেইল অ্যাড্রেসটি এখানে বসান]
+- **Portfolio:** [Visit Portfolio](https://my-portfolio-ebon-three-60.vercel.app)
 
 ---
 
