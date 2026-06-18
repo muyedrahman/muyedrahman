@@ -6,7 +6,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=✨+Muyedur+Rahman+✨" />
+  <im<img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/f6dae0e9-9b8d-43ed-8282-b6a2ead8eb45" />
+g src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=✨+Muyedur+Rahman+✨" />
 </p>
 
 <h3 align="center">
