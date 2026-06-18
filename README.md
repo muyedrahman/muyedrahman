@@ -1,12 +1,20 @@
-<img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/b852d7bc-35aa-4cbc-a9ae-90587437f336" />
-<h1 align="center">✨ Muyedur Rahman ✨</h1>
+
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/b852d7bc-35aa-4cbc-a9ae-90587437f336" alt="GitHub Banner" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=✨+Muyedur+Rahman+✨" />
+</p>
 
 <h3 align="center">
 Full Stack Web Developer
 </h3>
 
 <p align="center">
-MERN & Next.js Developer • Building Scalable Real-World Applications
+MERN & Next.js Developer • Building Scalable Real-World Applications • TypeScript Learner
 </p>
 
 <p align="center">
@@ -25,18 +33,18 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 ## 🚀 Current Activities
 
-* 🔭 Working on full-stack web applications using React, Next.js, Node.js, and MongoDB
-* 🌱 Learning TypeScript and advanced Next.js concepts
-* 💡 Building real-world projects including E-commerce, Tourism, and Service platforms
-* 🚀 Improving backend architecture and scalable application development
-* 📚 Exploring modern development tools and best practices
+- 🔭 Working on full-stack web applications using React, Next.js, Node.js, and MongoDB  
+- 🌱 Learning TypeScript and advanced Next.js concepts  
+- 💡 Building real-world projects including E-commerce, Tourism, and Service platforms  
+- 🚀 Improving backend architecture and scalable application development  
+- 📚 Exploring modern development tools and best practices  
 
 ---
 
 ## 🛠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vercel" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vercel" />
 </p>
 
 ---
@@ -71,7 +79,6 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 </p>
 
-
 ---
 
 ## 📊 GitHub Statistics
@@ -89,11 +96,10 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 ## 🎯 Career Goals
 
-* Master the Next.js + TypeScript ecosystem
-* Build production-ready scalable applications
-* Contribute to open-source projects
-* Launch a successful SaaS or technology startup
-* Continuously improve as a Full Stack Developer
-
+- Master Next.js + TypeScript ecosystem  
+- Build production-ready scalable applications  
+- Contribute to open-source projects  
+- Launch SaaS / startup project  
+- Become a professional Full Stack Engineer  
 
 ---
