@@ -1,42 +1,27 @@
-# 
+# 👋 Hi, I'm Muyedur Rahman
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Muyedur%20Rahman&subtitle=Full%20Stack%20Web%20Developer&fontSize=40&subtitleSize=20&animation=fadeIn" width="100%" alt="Banner" />
-</p>
+### Full Stack Web Developer | MERN & Next.js | Building scalable real-world apps. On a mission to master Next.js and integrate TypeScript into my stack.
 
-## 💫 About Me
+---
+
+## 👨‍💻 About Me
 I am a passionate **Full Stack Web Developer** who loves exploring new technologies. I thrive at the intersection of data, psychology, and human behavior, using these insights to build scalable, high-performance web applications and craft highly intuitive user experiences.
 
 ---
 
 ## 🚀 Current Activities
-* 🌱 Currently mastering **Next.js** to build advanced full-stack architectures.
-* 🛠️ Integrating **TypeScript** into my stack over the coming months for type-safe development.
-* 💻 Designing and developing scalable, real-world web applications with long-term performance in mind.
+- 🔭 Working as a **Frontend Web Developer Intern** to build real-world, interactive user experiences.
+- 🌱 Currently mastering **Next.js** to build advanced full-stack architectures.
+- 🛠️ Integrating **TypeScript** into my stack over the coming months for type-safe development.
+- 💡 Designing and developing scalable web applications (E-commerce, Tourism, and Service platforms).
 
 ---
 
-## 🛠️ My Tech Stack & Skills
+## 🛠 Skills
 <p align="left">
-  <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <!-- React -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <!-- Next.js -->
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodes&logoColor=white" alt="Node.js"/>
-  <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,firebase" alt="My Skills" />
+  </a>
 </p>
 
 ---
@@ -50,6 +35,13 @@ I am a passionate **Full Stack Web Developer** who loves exploring new technolog
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyedrahman&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
+
+---
+
+## 📌 Goals
+- 🎯 Master the Next.js + TypeScript ecosystem for enterprise-grade applications.
+- 💼 Secure a high-impact global developer role and contribute to open-source.
+- 🚀 Launch a long-term, scalable SaaS or E-commerce startup project.
 
 ---
 
