@@ -1,48 +1,93 @@
-<img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/c11dbeaa-5991-446a-a58c-f6b911f90783" />
-# 👋 Hi, I'm Muyedur Rahman
-### Full Stack Web Developer | MERN & Next.js Enthusiast  
-Building scalable real-world applications | Learning TypeScript
+![Banner](./assets/banner.png)
+
+<div align="center">
+
+# ✨ Muyedur Rahman ✨
+
+### Full Stack Web Developer
+
+Building scalable real-world applications with MERN Stack & Next.js
+
+📍 Dhaka, Bangladesh • 📧 [muyedur.rahman.dev@gmail.com](mailto:muyedur.rahman.dev@gmail.com)
+
+</div>
 
 ---
 
-## 🧠 About Me
-I am a passionate Full Stack Web Developer focused on building modern, scalable, and production-ready web applications using MERN stack and Next.js.
+## 👨‍💻 About Me
+
+I am a passionate Full Stack Web Developer who enjoys building modern, responsive, and scalable web applications. I love working with JavaScript technologies and continuously improving my skills by building real-world projects.
 
 ---
 
 ## 🚀 Current Activities
-- 🔭 Working on Next.js full-stack applications  
-- 🌱 Learning TypeScript and backend development  
-- 💡 Building real-world projects like E-commerce & Donation systems  
-- 🎯 Improving system design and clean architecture  
+
+* 🔭 Building full-stack applications using React, Node.js, Express.js, and MongoDB
+* 🌱 Learning Next.js and TypeScript
+* 💡 Exploring scalable backend architecture and clean code practices
+* 🚀 Developing portfolio-quality projects to strengthen my developer journey
+* 📚 Continuously improving problem-solving and web development skills
 
 ---
 
-## 🛠 Skills
+## 🛠️ Skills
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vercel)
-
----
-
-## 🌐 Connect with Me
-- 🌍 Portfolio: https://my-portfolio-ebon-three-60.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/muyedur-rahman-315a74344  
-- 🐦 X (Twitter): https://x.com/MuyedR71694  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vercel" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muyedrahman&show_icons=true)
+<p align="center">
+  <a href="https://my-portfolio-ebon-three-60.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/muyedur-rahman-315a74344">LinkedIn</a> •
+  <a href="https://x.com/MuyedR71694">X (Twitter)</a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muyedrahman)
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muyedrahman&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muyedrahman" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyedrahman&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-## 📌 Goals
-- Master Next.js + TypeScript  
-- Build strong full-stack portfolio  
-- Launch real-world SaaS project  
-- Become job-ready developer  
+## 🎯 Career Goals
+
+* Become an expert Full Stack Web Developer
+* Master Next.js and TypeScript
+* Build scalable SaaS and real-world applications
+* Launch technology-driven startup projects
+* Contribute to open-source projects
 
 ---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Platform
+
+A modern full-stack e-commerce application with authentication, product management, and secure user experience.
+
+### 🩸 Blood Donation Management System
+
+A platform that connects blood donors and recipients with role-based dashboards and donation request management.
+
+### 🌐 Portfolio Website
+
+A personal portfolio showcasing projects, skills, achievements, and professional journey.
+
+---
+
+⭐ Thanks for visiting my profile!
