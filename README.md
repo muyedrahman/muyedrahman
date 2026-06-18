@@ -1,5 +1,4 @@
-![Banner](./assets/banner.png)
-
+<img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/c11dbeaa-5991-446a-a58c-f6b911f90783" />
 # 👋 Hi, I'm Muyedur Rahman
 ### Full Stack Web Developer | MERN & Next.js Enthusiast  
 Building scalable real-world applications | Learning TypeScript
