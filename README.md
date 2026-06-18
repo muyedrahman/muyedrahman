@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Muyedur Rahman Banner" width="100%" />
-</p>
-
+<img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/b852d7bc-35aa-4cbc-a9ae-90587437f336" />
 <h1 align="center">✨ Muyedur Rahman ✨</h1>
 
 <h3 align="center">
@@ -96,4 +93,3 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,firebase,git,github,vscode" />
 </p>
-<img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/dec6b271-2c82-4319-82d5-be51a22f0e67" />
