@@ -1,14 +1,14 @@
 <p align="center">
-  <img width="1026" height="338" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/5dd13161-0cf7-4c3a-af2e-0a30f7603ced" />
-
-
+  <img width="100%" src="https://github.com/user-attachments/assets/b852d7bc-35aa-4cbc-a9ae-90587437f336" alt="GitHub Banner" />
 </p>
 
 ---
 
 <h1 align="center">✨ Muyedur Rahman ✨</h1>
 
-<h3 align="center">Full Stack Web Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Next.js+%26+TypeScript+Learner+%F0%9F%8C%9F;Building+Scalable+Applications+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 <p align="center">
   MERN & Next.js Developer • Building Scalable Real-World Applications • TypeScript Learner
@@ -88,11 +88,13 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 ## 🎯 Career Goals
 
-- `</>` Master Next.js + TypeScript ecosystem
-- 🚀 Build production-ready scalable applications
-- 🤝 Contribute to open-source projects
-- 💡 Launch SaaS / startup project
-- 🏆 Become a professional Full Stack Engineer
+| | Goal |
+|---|---|
+| `</>` | Master Next.js + TypeScript ecosystem |
+| 🚀 | Build production-ready scalable applications |
+| 🤝 | Contribute to open-source projects |
+| 💡 | Launch SaaS / startup project |
+| 🏆 | Become a professional Full Stack Engineer |
 
 ---
 
