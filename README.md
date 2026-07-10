@@ -73,15 +73,10 @@ I work primarily with the **MERN Stack** and **Next.js**, continuously improving
 
 ---
 
-## 📊 GitHub Statistics
+## 💻 Tech Stack & Philosophy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muyedrahman&show_icons=true&theme=radical&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muyedrahman&theme=radical" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyedrahman&layout=compact&theme=radical" height="180px" />
+I focus on building scalable and user-centric web applications using the <b>MERN</b> stack and <b>Next.js</b>. My goal is to write clean, maintainable code that solves real-world problems efficiently. I am currently deepening my expertise in <b>TypeScript</b> to ensure robust and type-safe development across all my projects.
 </p>
 
 ---
